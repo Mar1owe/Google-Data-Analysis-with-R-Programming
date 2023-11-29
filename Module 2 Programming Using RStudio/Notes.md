@@ -57,6 +57,6 @@ When using pipes:
 ## R resources for more help
 [Posit RStudio](https://posit.co/): The best place to find help with R is in R itself! You can input ‘?’ or the help() command to search in R. You can also open the Help pane to find more R resources.   
 [Posit Blog](https://posit.co/blog/)  
-[Stack Overflow](https://stackoverflow.blog/): The Stack Overflow blog posts opinions and advice from other coders.
-[R-Bloggers](https://www.r-bloggers.com/): useful tutorials and news articles
+[Stack Overflow](https://stackoverflow.blog/): The Stack Overflow blog posts opinions and advice from other coders.  
+[R-Bloggers](https://www.r-bloggers.com/): useful tutorials and news articles  
 [R-Bloggers' tutorial for learning R](https://www.r-bloggers.com/2015/12/how-to-learn-r-2/#h.y5b98o9o2h1r): basic R tutorials
